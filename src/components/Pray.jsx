@@ -19,7 +19,7 @@ function Pray() {
             }
         };
 
-        fetchPrayerTimes();  /
+        fetchPrayerTimes(); 
 
     }, [city]);
 

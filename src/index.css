@@ -71,6 +71,8 @@ select {
 }
 .buttom  div{
   color: #ffffff;
+  padding: 5px 0 5px 0;
+  border-bottom: 1px solid white;
   display: flex;
   justify-content: space-between;
 }
